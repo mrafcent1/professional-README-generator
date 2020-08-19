@@ -1,10 +1,10 @@
-# Hello
+# README Generator
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-its cool
+This project generates a good readme automatically.
 
 ## Table of Contents
 
@@ -21,15 +21,15 @@ npm i
 
 ## Usage
 
-use it
+Use it and enjoy.
 
 ## License
 
-This repository is licensed under the Apache 2.0 license.
+This repository is licensed under the MIT license.
 
 ## Contributing
 
-fork it
+Contribute often!
 
 ## Tests
 
@@ -37,5 +37,5 @@ npm test
 
 ## Questions
 
-Questions about this repository? Please contact me at [hi@hi.com](mailto:hi@hi.com). View more of my work at [hi](https://github.com/hi) 
+Questions about this repository? Please contact me at [tiffanylbrand@outlook.com](mailto:tiffanylbrand@outlook.com). View more of my work at [tiffany-brand](https://github.com/tiffany-brand) 
 

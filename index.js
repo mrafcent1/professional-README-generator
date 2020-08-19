@@ -71,13 +71,13 @@ const promptUser = () => {
 
 
 // function to write README file
-function writeToFile(fileName, data) {
+const writeToFile = (fileName, data) => {
     return writeFileAsync(fileName, data);
 }
 
 
 // function to initialize program
-async function init() {
+const init = async () => {
     try {
         // ask user for answers to questions
         const answers = await promptUser();
