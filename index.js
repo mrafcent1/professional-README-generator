@@ -63,23 +63,12 @@ const questions = [
 ]
 
 
-// prompt user - return answers object
-
+// function to prompt user - returns answers object
 const promptUser = () => {
     return inquirer
         .prompt(questions);
 }
 
-// take in answers object, create string with markdown
-
-// const makeReadme = () {
-
-// }
-
-// save README to file
-// const saveReadme = (mdText) {
-//     // write file
-// }
 
 // function to write README file
 function writeToFile(fileName, data) {
@@ -87,22 +76,19 @@ function writeToFile(fileName, data) {
 }
 
 
-
-// // Run README generator
-// promptUser().then((answers) => {
-//     console.log(answers);
-//     // const readmeContent = makeReadme(answers);
-//     // saveReadme(readmeContent);
-// });
-
+// function to initialize program
 async function init() {
     try {
+        // ask user for answers to questions
         const answers = await promptUser();
-        console.log(answers);
 
+        // create markdown content from user answers
         const fileContent = generateMd(answers);
 
+        // write markdown content to README.md file
         await writeToFile("./output/README.md", fileContent);
+
+        // notify user that file has been written
         console.log("README.md created");
 
     } catch (err) {
@@ -110,23 +96,9 @@ async function init() {
     }
 }
 
+// function call to initialize program
 init();
 
-// From develop
-// // array of questions for user
-// const questions = [
-
-// ];
-
-
-
-// // function to initialize program
-// function init() {
-
-// }
-
-// // function call to initialize program
-// init();
 
 
 
