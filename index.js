@@ -79,6 +79,8 @@ const writeToFile = (fileName, data) => {
 // function to initialize program
 const init = async () => {
     try {
+        console.log("Welcome to the README generator.\nPlease answer the following questions:")
+
         // ask user for answers to questions
         const answers = await promptUser();
 
@@ -89,7 +91,7 @@ const init = async () => {
         await writeToFile("./output/README.md", fileContent);
 
         // notify user that file has been written
-        console.log("README.md created");
+        console.log("README.md created in output folder.");
 
     } catch (err) {
         console.log(err);
