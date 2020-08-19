@@ -4,7 +4,7 @@
 
 ## Description
 
-This project generates a good readme automatically.
+This project is a command line app that generates a README markdown file from user input.
 
 ## Table of Contents
 
@@ -16,12 +16,13 @@ This project generates a good readme automatically.
 * [Questions](#questions)
 
 ## Installation
-
+`
 npm i
+`
 
 ## Usage
 
-Use it and enjoy.
+Run it and enjoy!
 
 ## License
 
@@ -29,11 +30,12 @@ This repository is licensed under the MIT license.
 
 ## Contributing
 
-Contribute often!
+Send it in!
 
 ## Tests
-
+`
 npm test
+`
 
 ## Questions
 

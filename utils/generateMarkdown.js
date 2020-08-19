@@ -35,8 +35,9 @@ ${data.description}
 * [Questions](#questions)
 
 ## Installation
-
+\`
 ${data.installation}
+\`
 
 ## Usage
 
@@ -51,8 +52,9 @@ This repository is licensed under the ${data.license} license.
 ${data.contribute}
 
 ## Tests
-
+\`
 ${data.tests}
+\`
 
 ## Questions
 
