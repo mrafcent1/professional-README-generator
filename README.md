@@ -6,6 +6,8 @@
 
 This project is a command line application that automatically generates a professional README markdown file for a repository based on answers from the user. When the application runs, it presents a series of prompts to the user to fill in sections in the README. Then the README markdown file with the user information is saved inside the output folder.
 
+![README-Generator](https://user-images.githubusercontent.com/16748389/90825171-880bb900-e306-11ea-93b0-141d336bfc69.gif)
+
 
 
 ## Table of Contents
