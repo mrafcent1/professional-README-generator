@@ -96,6 +96,7 @@ const init = async () => {
         console.log("README.md created in output folder.");
 
     } catch (err) {
+        console.error("Error creating README. File not created.");
         console.log(err);
     }
 }
