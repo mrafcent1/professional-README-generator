@@ -2,16 +2,24 @@
 
 [![License: MIT](https://img.shields.io/github/license/tiffany-brand/professional-README-generator?style=plastic)](./LICENSE)
 
+
 ## Description
 
 This project is a command line application that automatically generates a professional README markdown file for a repository based on answers from the user. When the application runs, it presents a series of prompts to the user to fill in sections in the README. Then the README markdown file with the user information is saved inside the output folder.
 
+### Demonstration
 ![README-Generator](https://user-images.githubusercontent.com/16748389/90825755-5f37f380-e307-11ea-8078-e754d7eee54c.gif)
 
+![terminal-screen](https://user-images.githubusercontent.com/16748389/90826285-2d735c80-e308-11ea-83bd-22b1724b6fff.JPG)
 
+### Output Readme
+![Demo-rm](https://user-images.githubusercontent.com/16748389/90827306-06b62580-e30a-11ea-9516-34a14819819e.gif)
+
+![demo-readme-screen](https://user-images.githubusercontent.com/16748389/90826326-3f54ff80-e308-11ea-8f2b-0c946f6666de.JPG)
 
 ## Table of Contents
 
+* [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
@@ -28,6 +36,7 @@ npm i
 ## Usage
 
 After installing the dependencies, run the application with 
+
 `
 node index.js
 `
