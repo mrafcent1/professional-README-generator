@@ -13,6 +13,8 @@
 * [Tests](#tests)
 * [Questions](#questions)
 
+---
+
 ## Installation
 
 ## Usage

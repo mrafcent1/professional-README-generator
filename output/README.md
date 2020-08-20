@@ -1,10 +1,10 @@
-# Hal's project
+# Cool Project
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Description
 
-Hal is almost as cool as Joe, and so is his project.
+It's very cool.
 
 ## Table of Contents
 
@@ -25,25 +25,25 @@ npm i
 
 ## Usage
 
-run it
+Just download it and run it
 
 ## License
 
-This repository is licensed under the GNU v3 license.
+This repository is licensed under the BSD 3-Clause license.
 
 ## Contributing
 
-fork it
+Ask me
 
 ## Tests
 
 To run tests, run the following:
 
 `
-npm test
+npm run test
 `
 
 ## Questions
 
-Questions about this repository? Please contact me at [hal@hal.com](mailto:hal@hal.com). View more of my work in GitHub at [hal](https://github.com/hal) 
+Questions about this repository? Please contact me at [tiffanylbrand@outlook.com](mailto:tiffanylbrand@outlook.com). View more of my work in GitHub at [tiffany-brand](https://github.com/tiffany-brand) 
 
