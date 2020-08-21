@@ -18,10 +18,16 @@ This project is a command line application that automatically generates a profes
 ## Table of Contents
 
 * [Description](#description)
+* [Technologies](#technologies)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Questions](#questions)
+
+## Technologies
+
+* [Node.js](https://nodejs.org/)
+* [Inquirer.js](https://www.npmjs.com/package/inquirer)
 
 ## Installation
 
